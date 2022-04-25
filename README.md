@@ -1,4 +1,4 @@
 # BucketListApp
 
-Testing the
+Testing the App
 Pre Release
